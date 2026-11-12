@@ -1,7 +1,7 @@
 # Hi, I'm Diwas 👋
 
 Data science grad student at Duke, from Gelephu, Bhutan.
-Actuary by training, banker by experience, now working on health data, privacy, and security.
+Actuary by training, banker by experience, data scientist by choice.
 
 ### Background
 - **Duke University**, M.S. Interdisciplinary Data Science (class of 2027). Full merit scholarship, Dean's Research Award.
@@ -12,7 +12,7 @@ Actuary by training, banker by experience, now working on health data, privacy, 
 - **Health policy research** using Medicare open data: prescribing patterns, billing reforms, spending concentration
 - **Health data privacy**: re-identification risk in prescription data, privacy notices of US pharmacies
 - **The 30-Minute Map**: a public atlas of rural emergency care access in the US
-- **Security research**: coordinated vulnerability disclosure with financial institutions and government bodies in Bhutan. Speaking at ACSAC 2026.
+- **Security research**: coordinated vulnerability disclosure with financial institutions and government bodies in Bhutan. Speaker at ACSAC 2026.
 
 ### Things I've shipped
 
@@ -32,18 +32,15 @@ Actuary by training, banker by experience, now working on health data, privacy, 
 - **English Dzongkha Offline Dictionary**: the first Dzongkha digital dictionary, 200K+ downloads on Android
 - **[Thimphu live 3D model](https://androidilicious.github.io/thimphu)**: the city on real map and elevation data with live weather and air quality
 - **[Om Mani Padme Hum chant counter](https://androidilicious.github.io/om)**: a small voice model that counts mantra repetitions
-- **[Best of Bhutan Tours](https://bestofbhutan.com)**: I ran it and built the site
+- **[Best of Bhutan Tours](https://bestbhutan.com)**: I ran it and built the site
 
 **Bhutan National Bank (2017 to 2025)**
-- Led the core banking system evaluation with the IFC, then ran the bank-wide Oracle FLEXCUBE upgrade
+- Led the core banking system evaluation with the IFC, then oversaw the bank-wide Oracle FLEXCUBE upgrade
 - Raised KYC compliance from 28% to 99% using RFM customer segmentation
-- Credit risk model (XGBoost) and a relationship-based pricing framework
-- Replaced spreadsheet support tracking with a Zammad helpdesk, including an AI chatbot plugin
+- Evaluated the Credit risk model (XGBoost) and implemented a relationship-based pricing framework
+- Replaced spreadsheet support tracking with a Zammad helpdesk ticketing system
 - Rebuilt bnb.bt on WordPress with analytics, and designed the bank's first brand guidelines
 - Built the career portal and e-procurement system
-
-**Freelance**
-- **[Himalayan Fried Chicken & Bar](https://himalayanfriedchicken.com)**: restaurant site with reservation and catering forms
 
 ### Tools
 - **Languages:** Python, SQL, TypeScript, JavaScript, PL/SQL, PHP
