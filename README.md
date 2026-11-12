@@ -46,7 +46,13 @@ Actuary by training, banker by experience, now working on health data, privacy, 
 - **[Himalayan Fried Chicken & Bar](https://himalayanfriedchicken.com)**: restaurant site with reservation and catering forms
 
 ### Tools
-Python · SQL · PySpark · PostgreSQL · TypeScript · Flutter
+- **Languages:** Python, SQL, TypeScript, JavaScript, PL/SQL, PHP
+- **Data and ML:** XGBoost, Hugging Face, Streamlit, Plotly, Jupyter, Quarto
+- **Data engineering:** PySpark, Databricks, Kafka, Airflow, PostgreSQL, MySQL, Oracle, AWS
+- **AI:** Anthropic API, LLM agents, Whisper
+- **Web and apps:** Node.js, Express, Astro, Three.js, Flutter, Cloudflare, Google Apps Script
+- **Methods:** difference-in-differences, interrupted time series, NLP, sentiment analysis
+- **GIS:** ArcGIS
 
 ### Find me
 [diwaspuri.com](https://www.diwaspuri.com) · [LinkedIn](https://linkedin.com/in/diwaspuri)
