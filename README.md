@@ -19,7 +19,7 @@ Actuary by training, banker by experience, now working on health data, privacy, 
 - **Truentity Health** (software engineering intern, 2026): patient scheduling and reminder systems
 - **Greenhouse Management System** for Duke's research greenhouse
 - **[Om Mani Padme Hum chant counter](https://androidilicious.github.io/om)**: a small voice model that counts mantra repetitions
-- **[Best of Bhutan Tours](https://bestofbhutan.com)**: I run it and built the site
+- **[Best of Bhutan Tours](https://bestofbhutan.com)**: I ran it and built the site
 
 ### Tools
 Python · SQL · PySpark · PostgreSQL · TypeScript · Flutter
