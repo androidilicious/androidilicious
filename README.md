@@ -1,6 +1,7 @@
 # Hi, I'm Diwas 👋
 
-Data science grad student at Duke, from Gelephu, Bhutan.
+Data science grad student at Duke, from Gelephu, Bhutan. Currently working as a Teaching Assistant for Data Engineering Course (IDS706).
+
 Actuary by training, banker by experience, data scientist by choice.
 
 ### Background
